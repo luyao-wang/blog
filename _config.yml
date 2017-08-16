@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Looloo
+title: loo | loo
 subtitle:
 description:
-author: Looloo
+author: loo | loo
 language: en
 timezone:
 
@@ -80,3 +80,21 @@ deploy:
   type: git
   repo: git@github.com:luyao-wang/luyao-wang.github.io.git
   branch: master
+
+archive_generator:
+    per_page: 0
+    yearly: false
+    monthly: false
+    daily: false
+
+marked:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: false
+  smartLists: true
+  smartypants: true
+
+# Disqus
+disqus_shortname: luyao_wang
