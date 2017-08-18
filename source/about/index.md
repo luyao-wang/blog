@@ -1,63 +1,98 @@
 ---
-title: about
-date: 2017-08-15 19:16:50
+title: Who we are 🇺🇸🇨🇳
+date: 2017-08-16 17:50:26
 ---
-Luyao "Lulu" Wang 💁‍ ‍510-612-8873 💁‍ luyao_wang@berkeley.edu 💁‍ https://github.com/luyao-wang
+
+Hi, we're Luyao "Lulu" Wang & John L. Bernstein IV, two students from California State University East Bay. We're both computer science students, one working on her Master's, one working on his Bachelor's, united together to code for a better world (and to get experience for ourselves).
+
+Below you can see our personal resumes:
+
+### 🇨🇳 Luyao "Lulu" Wang:
 
 <!--Set up this to be a PDF hyperlink for download.-->
 ### WORK EXPERIENCE
 
-Software Engineer Intern - Cisco Systems, Inc. : October 2016 - April 2017
+**Software Engineer Intern - Cisco Systems, Inc. : October 2016 - April 2017**
 
- - Database Management, querying, trobleshooting of database. Generation of reports for team members for each weekly meeting. Performance monitoring & analysis of Cisco wireless systems on Cisco's newest wireless project.
+Database Management, querying, trobleshooting of database. Generation of reports for team members for each weekly meeting. Performance monitoring & analysis of Cisco wireless systems on Cisco's newest wireless project.
 
-Software Engineer Intern - Maru Me : June 2016 - August 2016
- - Maintenance & development of Maru Me's iOS application including: debugging issues of previous versions and UX/UI development.
+**Software Engineer Intern - Maru Me : June 2016 - August 2016**
 
-Marketing Intern - Philips : August 2012 - March 2013
- - Review of purchase orders for healthcare events, approval of budget plans for Philips' healthcare marketing department, and data entry of purchase orders.
+Maintenance & development of Maru Me's iOS application including: debugging issues of previous versions and UX/UI development.
 
-Accounting Intern - PwC (PricewaterhouseCoopers) : July 2012 - August 2012
- - Coordination of mid-year auditing projects for PwC's clients. Tasks included: Bank reconciliation operations, processing of client information for audit reports.
+**Marketing Intern - Philips : August 2012 - March 2013**
 
-Marketing Intern - ING Group : Feburary 2011
- - Collection and analysis of customer feedback regarding ING's insurance products. Creation and delivery of marketing plans.
-===============
-   TUTORING
-===============
-CALIFORNIA STATE UNIVERSITY EAST BAY
-Student Instructor - SCAA: September 2017 - Present
- - Creation of lesson plans & activities along with tutoring of students for Data Structures & Algorithms course.
+Review of purchase orders for healthcare events, approval of budget plans for Philips' healthcare marketing department, and data entry of purchase orders.
 
-UNIVERSITY OF INTERNATIONAL BUSINESS AND ECONOMICS (BEIJING)
-Course Assistance (Linear Algebra): February 2012 - July 2012
- - Collection and grading of assignments and exams, scheduling office hours for students, and set up of multimedia equipment for instructors.
-Course Assistance (Intro to Statistics: Probability): September 2011 - January 2012
- - Collection and grading of assignments, scheduling office hours for students, and `(PLACEHOLDER big word goes here!)` of multimedia equipment for instructors.
+**Accounting Intern - PwC (PricewaterhouseCoopers) : July 2012 - August 2012**
 
-#AWARDS
+Coordination of mid-year auditing projects for PwC's clients. Tasks included: Bank reconciliation operations, processing of client information for audit reports.
 
-2016
+**Marketing Intern - ING Group : Feburary 2011**
 
-- Chinese American Citizens Alliance Community Service Award
+Collection and analysis of customer feedback regarding ING's insurance products. Creation and delivery of marketing plans.
 
-- Berkeley City College International Scholarship
+### SKILLS
 
-2013
+**Programming Languages:** C, C++, Java, SQL, Python, Swift
 
-valedictorian
+**Natural Languages:** English, Mandarin
 
-2009 - 2013
+**Tools:** Git, Xcode, BASH Scripting
 
-dean's list and president's list, student council
+### EDUCATION
 
-2011
+**Master of Science – Computer Science : Expected May 2018**
 
-pwc scholarship
-the mathematical contest in modeling
+California State University East Bay *`GPA: 4.00`*
 
-Peking University scholarship
+**Master of Science – Accounting : June 2017**
 
-swimming
-2010
+University of International Business and Economics (Beijing) *`GPA: 3.86`*
+
+**Bachelor of Arts - Computer Science : 2014 - 2016**
+
+University of California Berkeley *`GPA: 3.87`*
+
+Completed 90 credits towards a Bachelor’s Degree in Computer Science.
+
+### TUTORING
+
+**CALIFORNIA STATE UNIVERSITY EAST BAY**
+
+**Student Instructor - SCAA : September 2017 - Present**
+
+Creation of lesson plans & activities along with tutoring of students for Data Structures & Algorithms course.
+
+**UNIVERSITY OF INTERNATIONAL BUSINESS AND ECONOMICS (BEIJING)**
+
+**Course Assistance : September 2011 - January 2012**
+
+Collection and grading of assignments and exams, scheduling office hours for students, and technician of multimedia equipment for instructors.
+
+### ACADEMIC ACHIEVEMENTS AND AWARDS
+
+**UIBE BEIJING**
+
+Valedictorian : 2013
+
+Dean’s and President’s Lists : 2009 - 2013
+
+Business School Student Council Representative : 2011 - 2013
+
+PwC Award : 2011
+
+PriceWaterhouseCoopers award granted only to 16 people per year. Recipient also has the eligibility to receive an internship from PriceWaterhouseCoopers, one of the largest account firms in the world.
+
+Silver Medal in 200m Freestyle & 200m Breaststroke : 2011
+
+**OTHER**
+
+Chinese American Citizens Alliance Community Service Award : 2016
+
+
+
+### 🇺🇸 John L. Bernstein IV
+
+
 

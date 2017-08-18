@@ -98,3 +98,6 @@ marked:
 
 # Disqus
 disqus_shortname: luyaowang
+
+tag_generator:
+  per_page: 0
