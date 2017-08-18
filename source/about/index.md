@@ -7,7 +7,7 @@ Hi, we're Luyao "Lulu" Wang & John L. Bernstein IV, two students from California
 
 Below you can see our personal resumes:
 
-### 🇨🇳 Luyao "Lulu" Wang:
+### 🇨🇳 [Luyao "Lulu" Wang :](/luyao-wang-updated-resume-WIP.odt.pdf)
 
 <!--Set up this to be a PDF hyperlink for download.-->
 ### WORK EXPERIENCE

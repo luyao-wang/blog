@@ -1,7 +1,8 @@
 menu:
     Blog: /
     Archive: /archives/
-    Tag: /tags/
+    # Tag: /tags/
+    CS_3240: /cs-3240/
     About: /about/
     Contact: /contact/
     GitHub: https://github.com/luyao-wang
