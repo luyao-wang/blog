@@ -1,17 +1,20 @@
 ---
-title: Introduction to torrenting & torrent clients​
+title: Introduction to Torrenting & Torrent Clients​
 date: 2017-08-23 21:57:56
 categories:
-- 程序媛💁‍技术贴
 - en 🇺🇸
 - school🎓
-- theory
-tags:
+- distributed systems
 - torrent
-- torrenting
-- torrent client
-- BitTorrent
-- Tracker
+- file system
+- peer to peer
+tags:
+- en 🇺🇸
+- school🎓
+- distributed systems
+- torrent
+- file system
+- peer to peer
 ---
 
 ### What is a torrent client?​
@@ -35,7 +38,7 @@ Torrenting is much faster than utilizing a centralized server for two main reaso
 
 - BitTorrent protocol allows seeds themselves to *immediately* start sharing information once portions of a file have been downloaded. Another machine does not need to wait for the first machine to finish downloading the file before it can receive parts of the file.​
 
-**`Illustration of a typical BitTorrent Swarm​`**
+[**`Illustration of a typical BitTorrent Swarm​`**](https://raw.githubusercontent.com/webtorrent/bittorrent-tracker/master/img.png)
 
 ![](https://raw.githubusercontent.com/webtorrent/bittorrent-tracker/master/img.png)
 
@@ -47,7 +50,7 @@ BitTorrent handles this via a `“Tracker”`. The tracker keeps track of all pe
 
 The tracker also keeps track of what “part” of a file is attached to what machine. This ensures that peers will get the various pieces of data that they need for a file and no duplicate copies of information that has already been attained.​
 
-**`BitTorrent Tracker Diagram​`**
+[**`BitTorrent Tracker Diagram​`**](http://images.morehawes.co.uk/bittorrent/tracker.png)
 ![](http://images.morehawes.co.uk/bittorrent/tracker.png)
 
 ### BitTorrent Vulnerabilities : Loss of Seed​
@@ -90,31 +93,26 @@ At times the validity of a particular torrent can be suspect as well. Torrent fi
 
 ### Sources Used & Useful Links
 
-- BitTorrent Tracker: http://images.morehawes.co.uk/bittorrent/tracker.png​
+🍕 [Rarest First Principle - PDF](http://conferences.sigcomm.org/imc/2006/papers/p20-legout.pdf​)
 
-- Rarest First Principle: http://conferences.sigcomm.org/imc/2006/papers/p20-legout.pdf​
+🌭 [Vaibhav Walia - Github](https://github.com/vaibhav-walia)
 
-- First BitTorrent Tracker Diagram : https://raw.githubusercontent.com/webtorrent/bittorrent-tracker/master/img.png
+🍔 [BitTorrent Protocol - Github](https://github.com/webtorrent/bittorrent-protocol)
 
-- Second BitTorrent Tracker Diagram : http://images.morehawes.co.uk/bittorrent/tracker.png
+🍟 [Create Torrent - Github](https://github.com/webtorrent/create-torrent)
 
-- vaibhav-walia@github : https://github.com/vaibhav-walia
-
-- WebTorrent, LLC.@github : https://github.com/webtorrent/bittorrent-protocol
-
-- WebTorrent, LLC.@github : https://github.com/webtorrent/create-torrent
-
-- WebTorrent, LLC.@github : https://github.com/webtorrent/webtorrent-cli
+🌮 [WebTorrent CLI - Github](https://github.com/webtorrent/webtorrent-cli)
 ​
-- Node.js v8.4.0 Documentation : https://nodejs.org/api/fs.html
 
-- npm : https://www.npmjs.com/
+🌯 [Node.js](https://nodejs.org/api/fs.html)
 
-- Internet Archive : https://archive.org/
+🍜 [npm](https://www.npmjs.com/)
 
-- Vuze : https://wiki.vuze.com/w/Legal_torrent_sites
+🍮 [Internet Archive](https://archive.org/)
 
-- patorjk : http://patorjk.com/software/taag/#p=testall&f=Larry%203D&t=CS%206580%20Final%20Demo
+🍭 [Vuze - Legal Torrents](https://wiki.vuze.com/w/Legal_torrent_sites)
+
+🍺 [ASCII Art Generator](http://patorjk.com/software/taag/#p=testall&f=Larry%203D&t=CS%206580%20Final%20Demo)
 
 
 ​

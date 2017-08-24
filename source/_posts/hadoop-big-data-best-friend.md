@@ -152,23 +152,23 @@ Security measures are dependent upon company policy and use of security systems 
 
 ### Sources – Online Information
 
-- What is Hadoop? - https://en.wikipedia.org/wiki/Apache_Hadoop
+👉 [What is Hadoop? - Wikipedia](https://en.wikipedia.org/wiki/Apache_Hadoop)
 
-- HDFS - http://www.aosabook.org/en/hdfs.html
+👉 [HDFS](http://www.aosabook.org/en/hdfs.html)
 
-- HDFS Checkpoints - https://blog.cloudera.com/blog/2014/03/a-guide-to-checkpointing-in-hadoop/
+👉 [HDFS Checkpoints](https://blog.cloudera.com/blog/2014/03/a-guide-to-checkpointing-in-hadoop/)
 
-- Secondary NameNode - http://hadooptutorial.info/secondary-namenode-in-hadoop/
+👉 [Secondary NameNode](http://hadooptutorial.info/secondary-namenode-in-hadoop/)
 
-- Hadoop Common - https://github.com/apache/hadoop-common
+👉 [Hadoop Common - Github](https://github.com/apache/hadoop-common)
 
-- MapReduce Engine's Processes - http://hadoopinrealworld.com/jobtracker-and-tasktracker/
+👉 [MapReduce Engine's Processes](http://hadoopinrealworld.com/jobtracker-and-tasktracker/)
 
-- YARN - https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html
+👉 [YARN - Hadoop Docs](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html)
 
-- Hadoop HA / QJM - https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-hdfs/HDFSHighAvailabilityWithQJM.html
+👉 [HDFS with QJM - Hadoop Docs](https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-hdfs/HDFSHighAvailabilityWithQJM.html)
 
-- Security -https://steveloughran.gitbooks.io/kerberos_and_hadoop/content/sections/the_limits_of_hadoop_security.html
+👉 [Security](https://steveloughran.gitbooks.io/kerberos_and_hadoop/content/sections/the_limits_of_hadoop_security.html)
 
 ### Sources – Papers
 
@@ -180,15 +180,15 @@ Security measures are dependent upon company policy and use of security systems 
 
 ### Sources - Images
 
-- Hadoop Logo - https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAcYAAAAJDgwYjA0ZmViLTJiNzgtNGJmMS1iNjE0LWQ3MzhiZmNjNzNhMg.png
+👉 [Hadoop Logo](https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAcYAAAAJDgwYjA0ZmViLTJiNzgtNGJmMS1iNjE0LWQ3MzhiZmNjNzNhMg.png)
 
-- HDFS Overview - https://punekaramit.files.wordpress.com/2014/06/hadoop-overview.png
+👉 [HDFS Overview](https://punekaramit.files.wordpress.com/2014/06/hadoop-overview.png)
 
-- TaskTracker Overview - https://examples.javacodegeeks.com/wp-content/uploads/2015/11/MapReduce.jpg
+👉 [TaskTracker Overview](https://examples.javacodegeeks.com/wp-content/uploads/2015/11/MapReduce.jpg)
 
-- YARN Architecture - https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/yarn_architecture.gif
+👉 [YARN Architecture](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/yarn_architecture.gif)
 
-- QJM Overview - https://knoldus.files.wordpress.com/2017/06/namenode.png?w=660
+👉 [QJM Overview](https://knoldus.files.wordpress.com/2017/06/namenode.png?w=660)
 
 
 

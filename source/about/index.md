@@ -7,7 +7,7 @@ Hi, we're Luyao "Lulu" Wang & John L. Bernstein IV, two students from California
 
 Below you can see our personal resumes:
 
-### 📝 [luyao-"lulu"-wang.pdf](/luyao-wang-updated-resume-WIP.odt.pdf)
+### 📝 [Luyao "Lulu" Wang Resume - PDF](/luyao-wang-updated-resume-WIP.odt.pdf)
 
 <!--Set up this to be a PDF hyperlink for download.-->
 ### WORK EXPERIENCE
@@ -34,7 +34,7 @@ Collection and analysis of customer feedback regarding ING's insurance products.
 
 ### SKILLS
 
-**Programming Languages:** `C, C++, Java, Python, SQL, HTML & CSS, Node.js, Swift`
+**Programming Languages:** `C, C++, Java, Python, SQL, JavaScript, Swift`
 
 **Natural Languages:** `English, Mandarin`
 
