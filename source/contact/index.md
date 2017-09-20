@@ -7,15 +7,13 @@ If you'd like to contact either Luyao "Lulu" Wang or John L. Bernstein IV (or bo
 
 **Luyao "Lulu" Wang:**
 
-510-612-8873
-
 luyao_wang@berkeley.edu
 
 https://github.com/luyao-wang
 
-**John L. Bernstein IV:**
+https://www.linkedin.com/in/lulu-wang-903293a4/
 
-510-938-6870
+**John L. Bernstein IV:**
 
 jbernstein3@horizon.csueastbay.edu
 
