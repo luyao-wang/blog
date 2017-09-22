@@ -1,11 +1,19 @@
 ---
-title: Who we are 🇺🇸🇨🇳
+title: About Looloo
 date: 2017-08-16 17:50:26
 ---
 
-Hi, we're Luyao "Lulu" Wang & John L. Bernstein IV, two students from California State University East Bay. We're both computer science students, one working on her Master's, one working on his Bachelor's, united together to code for a better world (and to get experience for ourselves).
+Hi, I'm Luyao "Lulu" Wang, a student from California State University East Bay. I'm a computer science student, working on my Master's, to code for a better world and to get experience for myself.
 
-Below you can see our personal resumes:
+If you'd like to contact Luyao "Lulu" Wang, please see my contact information below:
+
+luyao_wang@berkeley.edu
+
+https://github.com/luyao-wang
+
+https://www.linkedin.com/in/lulu-wang-903293a4/
+
+Below you can see my personal resume:
 
 ### 📝 [Luyao "Lulu" Wang Resume - PDF](/luyao-wang-updated-resume-WIP.odt.pdf)
 
